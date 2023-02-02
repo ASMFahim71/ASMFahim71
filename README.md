@@ -1,7 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/7167569.png)
 <h1 align="center">Hello World👋, I'm I'm ASM FAHIM</h1>
 <h3 align="center">A student and code lover!</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmfahim71&label=Profile%20views&color=0e75b6&style=flat" alt="asmfahim71" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fahim_asm" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_asm?logo=twitter&style=for-the-badge" alt="fahim_asm" /></a> </p>
