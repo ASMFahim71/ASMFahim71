@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **fahimuddin270@gmail.com**
 
+- 📄 Know about me [https://durjay.netlify.app](https://asm-fahim.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fahim_asm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahim_asm" height="30" width="40" /></a>
