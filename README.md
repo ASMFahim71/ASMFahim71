@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fahimuddin270@gmail.com**
 
-- 📄 Know about me [https://durjay.netlify.app](https://asm-fahim.netlify.app)
+- 📄 Know about me [https://asm-fahim.netlify.app](https://asm-fahim.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
