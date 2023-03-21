@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fahim_asm" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_asm?logo=twitter&style=for-the-badge" alt="fahim_asm" /></a> </p>
 
-- 🔭 I’m currently studying **Software Engineering**
+- 🔭 I’m currently studying **Computer Science and Telecommunication Engineering**
 
 - 🌱 I’m currently learning **DSA,Ethical Hacking**
 
