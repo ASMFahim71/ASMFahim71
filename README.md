@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying **Computer Science and Telecommunication Engineering**
 
-- 🌱 I’m currently learning **DSA,Ethical Hacking**
+- 🌱 I’m currently learning **DSA,Flutter,Laravel**
 
 - 📫 How to reach me **fahimuddin270@gmail.com**
 
